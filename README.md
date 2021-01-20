@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Matrix SVG](https://i0.hdslb.com/bfs/article/d5bcd7fc049daaff4edafb941de84f33ed60a25b.gif)](chainsawman)
+[![Matrix SVG](https://i0.hdslb.com/bfs/article/9e9827074943b6a1f5f8e479bcefede95697498e.png)](chainsawman)
