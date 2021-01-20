@@ -1,4 +1,5 @@
 
+あなたが勉強しなければ、マキマさんはあなたを殺しますよ〜
 
 <!--
 **Bohaukish/Bohaukish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
